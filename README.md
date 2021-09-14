@@ -13,6 +13,6 @@ the images used in this project
 
 ***i used command HTML and CSS elements to create this project..***
 
-**preview the final result** **[https://zpbvuqja5jhke12e3osskg-on.drv.tw/Price/]**
+**preview the final result** **[https://zpbvuqja5jhke12e3osskg-on.drv.tw/museum%20of%20candy/]**
 
 <img src="https://user-images.githubusercontent.com/85587699/133163291-9628e042-a2db-4f0f-a788-5a32faa40e06.png" width="600" height="300">
